@@ -1,7 +1,7 @@
 # Hi there, I'm José Fernando! 👋
 
 ## About Me
-I am a **Software Engineering Student** passionate about Backend development and building scalable systems. I specialize in the Java ecosystem and I am currently building my expertise in cloud-native technologies.
+I am a **Software Engineering Student** passionate about Backend development and building scalable systems. My main focus is on the Java ecosystem.
 
 * 🎓 Software Engineering Student at ENIAC
 * 💻 Stack: **Java, Spring Boot, SQL & Docker**
@@ -21,12 +21,5 @@ I am a **Software Engineering Student** passionate about Backend development and
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefernandosilva2007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefernandosilva2007&layout=compact&theme=dracula"/>
-</div>
 
 ---
