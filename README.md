@@ -8,11 +8,17 @@ Desenvolvo projetos voltados à construção de APIs REST, persistência de dado
 Atualmente, estou aprimorando meus conhecimentos em arquitetura de software, testes automatizados e desenvolvimento de aplicações backend, buscando minha primeira oportunidade de estágio na área de tecnologia.
 
 🎓 Formação: Engenharia de Software — Centro Universitário Eniac
+
 💻 Foco: Desenvolvimento Backend com Java e Spring Boot
+
 🛠️ Estudando: Arquitetura de Software, SOLID, Testes Automatizados e CI/CD
+
 🎯 Objetivo: Estágio em Desenvolvimento de Software / Backend
+
 🌍 Localização: Guarulhos, São Paulo — Brasil
+
 🌐 Inglês: Intermediário (B1)
+
 📫 Contato: E-mail | LinkedIn
 
 ## Tech Stack
